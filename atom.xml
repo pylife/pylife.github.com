@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Perfect your life]]></title>
+  <title><![CDATA[烂菜No.7]]></title>
   <link href="http://www.pylife.net/atom.xml" rel="self"/>
   <link href="http://www.pylife.net/"/>
-  <updated>2012-06-05T00:21:11+08:00</updated>
+  <updated>2012-06-11T21:10:23+08:00</updated>
   <id>http://www.pylife.net/</id>
   <author>
     <name><![CDATA[烂菜]]></name>
-    
+    <email><![CDATA[aaron.ckj@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[First page]]></title>
+    <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://www.pylife.net/blog/2012/04/20/first-page/"/>
     <updated>2012-04-20T22:43:00+08:00</updated>
     <id>http://www.pylife.net/blog/2012/04/20/first-page</id>
