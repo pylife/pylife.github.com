@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[烂菜No.7]]></title>
-  <link href="http://www.pylife.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: nsis | 烂菜No.7]]></title>
+  <link href="http://www.pylife.net/blog/categories/nsis/atom.xml" rel="self"/>
   <link href="http://www.pylife.net/"/>
   <updated>2012-06-12T00:04:46+08:00</updated>
   <id>http://www.pylife.net/</id>
@@ -18,7 +18,7 @@
     <link href="http://www.pylife.net/blog/2012/06/12/nsdiglog/"/>
     <updated>2012-06-12T00:01:00+08:00</updated>
     <id>http://www.pylife.net/blog/2012/06/12/nsdiglog</id>
-    <content type="html"><![CDATA[<h1>自定义界面&#8211;无边框窗体、移动、贴图</h1>
+    <content type="html"><![CDATA[<h1>自定义界面--无边框窗体、移动、贴图</h1>
 
 <h4>前言</h4>
 
@@ -43,15 +43,6 @@ NSIS制作的安装包可以运行在Win9x下，完全是WinAPI的调用，不�
 
 
 <h4>讲义</h4>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://www.pylife.net/blog/2012/04/20/first-page/"/>
-    <updated>2012-04-20T22:43:00+08:00</updated>
-    <id>http://www.pylife.net/blog/2012/04/20/first-page</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
